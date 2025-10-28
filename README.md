@@ -1,2 +1,10 @@
-# AWS-Projects
+# AWS Projects
+
 This repository contains multiple AWS hands-on projects for practice and learning.
+
+## Projects
+
+1. [Deploying a NodeJS Application on AWS EC2](./AWS-Projects/README.md)
+
+
+Each project folder contains its own README with setup instructions and code.
